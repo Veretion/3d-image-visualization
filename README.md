@@ -30,10 +30,10 @@ Plotly легко интегрируется в веб-приложения и J
 **Установите зависимости:**  
 Убедитесь, что у вас установлен Python и необходимые библиотеки. Вы можете установить их командой:  
 
-pip install numpy plotly pillow  
+**pip install numpy plotly pillow**  
 или  
-pip install -r requirements.txt  
-Для JN (!pip install numpy plotly pillow)  
+**pip install -r requirements.txt**  
+Для JN (**!pip install numpy plotly pillow**)  
 Настройте путь к изображению:   
 В файле с кодом измените переменную image_path на путь к вашему изображению (например, example.png).  
 
